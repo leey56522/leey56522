@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lucia Lee
+- 👀 I’m interested in HTML, CSS, Javascript, React, and Node.js
+- 🌱 I’m currently learning Javascript and React
+- 📫 Please reach me via email: leey56522@gmail.com
